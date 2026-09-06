@@ -18,7 +18,11 @@ I build LLM agent systems that run in production, and I ship products through sp
 - **Full-Stack Developer & Project Manager** at a confidential SaaS product company — four no-code product builders, and the agent delivery pipeline they ship through. I own both the engineering and the delivery: the spec, the architecture decision records and the QA gate.
 - **Independent project** — an AI operations manager for marketplace sellers: LLM agents handling buyer support, advertising management and real-time analytics.
 
-Most of my current work lives in private repositories, so this profile is intentionally quiet.
+### Written up
+
+**[supervising-coding-agents](https://github.com/EvgeniiMeleshkov/supervising-coding-agents)** — notes from running a fleet of coding agents on a production codebase for about a year and a half. What actually enforces quality (hooks in the execution path, not rules in a context file), why the seam between parallel changes is the real failure mode, a measured comparison of models on code review, and where repeated review turns negative.
+
+Most of my current work lives in private repositories, so the code here is quiet — but the reasoning is written down.
 
 ### Elsewhere
 
